@@ -5,5 +5,4 @@
 ### 💚 My Blog 💚
   ➡ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20BLOG-black?style=flat-square&logo=github&link=https://blog.naver.com/dlwjddk218/)](https://blog.naver.com/dlwjddk218/) ⬅
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungA-code&layout=compact)](https://github.com/JungA-code/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungA-code&show_icons=true&theme=dracula)
